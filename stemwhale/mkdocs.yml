@@ -1,0 +1,26 @@
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.top
+    - navigation.footer
+site_name: STEM Whale
+
+markdown_extensions:
+  - admonition
+  - pymdownx.smartsymbols
+
+copyright: "&copy; 2025 SnowDingo"
+
+extra:
+  generator: false
