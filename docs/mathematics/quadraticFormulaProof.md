@@ -12,7 +12,7 @@ $$
 
 
 !!! Warning
-    To prove the quadratic equation, we are going to use completion of the square method. Since this method is probably the easiest and most intitive way of proving, we recommend learning how this method before continuing to read this article.
+    To prove the quadratic equation, we are going to use completion of the square method. Since this method is probably the easiest and most intitive way of proving, we recommend learning  this method before continuing further.
     <iframe width="950" height="534" src="https://www.youtube.com/embed/2MKigAgPZMQ" title="Solving Quadratic Equations By Completing The Square" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Step 1:
